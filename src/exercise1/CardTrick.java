@@ -73,22 +73,22 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-//        System.out.println("My name is Aman Purohit, but you can call me Aman");
-//        System.out.println();
-//        
-//        System.out.println("My career ambitions:");
-//        System.out.println("-- Go to gym Regularly");
-//        System.out.println("-- Hand all the Assignments on time");
-//	System.out.println();	
-//
-//        System.out.println("My hobbies:");
-//        System.out.println("-- Gymming");
-//        System.out.println("-- Cooking");
-//        System.out.println("-- Watching TV");
-//        System.out.println("-- listening to music and Drinking Coffee");
-//
-//        System.out.println();
-//        
+       System.out.println("My name is Aman Purohit, but you can call me Aman");
+       System.out.println();
+       
+       System.out.println("My career ambitions:");
+       System.out.println("-- Go to gym Regularly");
+       System.out.println("-- Hand all the Assignments on time");
+      	System.out.println();	
+
+       System.out.println("My hobbies:");
+       System.out.println("-- Gymming");
+       System.out.println("-- Cooking");
+       System.out.println("-- Watching TV");
+       System.out.println("-- listening to music and Drinking Coffee");
+
+       System.out.println();
+       
     
     }
 
